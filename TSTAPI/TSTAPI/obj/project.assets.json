@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\extre\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\TSTDORIAN\\TSTAPI\\TSTAPI\\TSTAPI.csproj",
+      "projectUniqueName": "C:\\Users\\extre\\Documents\\Visual Studio 2017\\Projects\\TESTDOTNET\\TSTAPI\\TSTAPI\\TSTAPI.csproj",
       "projectName": "TSTAPI",
-      "projectPath": "C:\\Users\\extre\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\TSTDORIAN\\TSTAPI\\TSTAPI\\TSTAPI.csproj",
+      "projectPath": "C:\\Users\\extre\\Documents\\Visual Studio 2017\\Projects\\TESTDOTNET\\TSTAPI\\TSTAPI\\TSTAPI.csproj",
       "packagesPath": "C:\\Users\\extre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\extre\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\TSTDORIAN\\TSTAPI\\TSTAPI\\obj\\",
+      "outputPath": "C:\\Users\\extre\\Documents\\Visual Studio 2017\\Projects\\TESTDOTNET\\TSTAPI\\TSTAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
