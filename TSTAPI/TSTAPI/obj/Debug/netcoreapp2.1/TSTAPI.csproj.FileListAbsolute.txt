@@ -1,0 +1,14 @@
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\bin\Debug\netcoreapp2.1\TSTAPI.deps.json
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\bin\Debug\netcoreapp2.1\TSTAPI.runtimeconfig.json
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\bin\Debug\netcoreapp2.1\TSTAPI.runtimeconfig.dev.json
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\bin\Debug\netcoreapp2.1\TSTAPI.dll
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\bin\Debug\netcoreapp2.1\TSTAPI.pdb
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.csprojAssemblyReference.cache
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.csproj.CoreCompileInputs.cache
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.RazorAssemblyInfo.cache
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.RazorAssemblyInfo.cs
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.AssemblyInfoInputs.cache
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.AssemblyInfo.cs
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.RazorTargetAssemblyInfo.cache
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.dll
+E:\Dorian\GIT\TESTDOTNET\TSTAPI\TSTAPI\obj\Debug\netcoreapp2.1\TSTAPI.pdb
